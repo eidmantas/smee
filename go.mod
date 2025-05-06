@@ -7,6 +7,7 @@ toolchain go1.23.2
 require (
 	github.com/ccoveille/go-safecast v1.5.0
 	github.com/diskfs/go-diskfs v1.5.0
+	github.com/eidmantas/ipxedust v0.0.0-20250506105820-1a8ccd35b87d
 	github.com/fsnotify/fsnotify v1.8.0
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-logr/logr v1.4.2
@@ -16,7 +17,6 @@ require (
 	github.com/peterbourgon/ff/v3 v3.4.0
 	github.com/prometheus/client_golang v1.20.5
 	github.com/stretchr/testify v1.10.0
-	github.com/tinkerbell/ipxedust v0.0.0-20250129162407-3c29a914f8be
 	github.com/tinkerbell/tink v0.12.2
 	github.com/vishvananda/netlink v1.3.0
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.58.0
