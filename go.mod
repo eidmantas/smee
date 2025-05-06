@@ -7,7 +7,7 @@ toolchain go1.23.2
 require (
 	github.com/ccoveille/go-safecast v1.5.0
 	github.com/diskfs/go-diskfs v1.5.0
-	github.com/eidmantas/ipxedust v0.0.0-20250506105820-1a8ccd35b87d
+	github.com/eidmantas/ipxedust v0.0.0-20250506115036-ddd897bc62c3
 	github.com/fsnotify/fsnotify v1.8.0
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-logr/logr v1.4.2

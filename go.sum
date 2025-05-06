@@ -17,8 +17,8 @@ github.com/diskfs/go-diskfs v1.5.0 h1:0SANkrab4ifiZBytk380gIesYh5Gc+3i40l7qsrYP4
 github.com/diskfs/go-diskfs v1.5.0/go.mod h1:bRFumZeGFCO8C2KNswrQeuj2m1WCVr4Ms5IjWMczMDk=
 github.com/djherbis/times v1.6.0 h1:w2ctJ92J8fBvWPxugmXIv7Nz7Q3iDMKNx9v5ocVH20c=
 github.com/djherbis/times v1.6.0/go.mod h1:gOHeRAz2h+VJNZ5Gmc/o7iD9k4wW7NMVqieYCY99oc0=
-github.com/eidmantas/ipxedust v0.0.0-20250506105820-1a8ccd35b87d h1:fV/NHbl75G++fkQ0rudJicjxlPeUzduDCQpufecuE7M=
-github.com/eidmantas/ipxedust v0.0.0-20250506105820-1a8ccd35b87d/go.mod h1:qqH8MHpG/RAzxz/zy26bp57nb1Cv6Bg/WIJ4zoUB+kc=
+github.com/eidmantas/ipxedust v0.0.0-20250506115036-ddd897bc62c3 h1:rmBDptz+f93kGeOBmMYcf19H0hw/JinC4/n2Klyqym8=
+github.com/eidmantas/ipxedust v0.0.0-20250506115036-ddd897bc62c3/go.mod h1:qqH8MHpG/RAzxz/zy26bp57nb1Cv6Bg/WIJ4zoUB+kc=
 github.com/elliotwutingfeng/asciiset v0.0.0-20230602022725-51bbb787efab h1:h1UgjJdAAhj+uPL68n7XASS6bU+07ZX1WJvVS2eyoeY=
 github.com/elliotwutingfeng/asciiset v0.0.0-20230602022725-51bbb787efab/go.mod h1:GLo/8fDswSAniFG+BFIaiSPcK610jyzgEhWYPQwuQdw=
 github.com/emicklei/go-restful/v3 v3.12.1 h1:PJMDIM/ak7btuL8Ex0iYET9hxM3CI2sjZtzpL63nKAU=
